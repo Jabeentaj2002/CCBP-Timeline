@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.timelineView-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  width: 100vw;
+}
+
+.heading {
+  padding-left: 30px;
+  padding-top: 30px;
+}
+
+.chrono-conatiner {
+  height: 100%;
+  width: 80%;
+  align-items: center;
+  justify-content: center;
+}
